@@ -3025,362 +3025,362 @@
 {
 	"name": "Build a Blue Violet Brick",
 	"category": ["Colors"],
-	"requires": "|Blue Violet| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Blue Violet| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },
 {
 	"name": "Build a Blue Brick",
 	"category": ["Colors"],
-	"requires": "|Blue| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Blue| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },
 {
 	"name": "Build a Bright Light Blue Brick",
 	"category": ["Colors"],
-	"requires": "|Bright Light Blue| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Bright Light Blue| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },
 {
 	"name": "Build a Bright Light Orange Brick",
 	"category": ["Colors"],
-	"requires": "|Bright Light Orange| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Bright Light Orange| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },
 {
 	"name": "Build a Bright Light Yellow Brick",
 	"category": ["Colors"],
-	"requires": "|Bright Light Yellow| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Bright Light Yellow| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },
 {
 	"name": "Build a Bright Green Brick",
 	"category": ["Colors"],
-	"requires": "|Bright Green| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Bright Green| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },	
 {
 	"name": "Build a Bright Pink Brick",
 	"category": ["Colors"],
-	"requires": "|Bright Pink| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Bright Pink| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },
 {
 	"name": "Build a Chrome Gold Brick",
 	"category": ["Colors"],
-	"requires": "|Chrome Gold| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Chrome Gold| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },
 {
 	"name": "Build a Coral Brick",
 	"category": ["Colors"],
-	"requires": "|Coral| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Coral| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },
 {
 	"name": "Build a Dark Azure Brick",
 	"category": ["Colors"],
-	"requires": "|Dark Azure| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Dark Azure| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },
 {
 	"name": "Build a Dark Blue Brick",
 	"category": ["Colors"],
-	"requires": "|Dark Blue| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Dark Blue| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },
 {
 	"name": "Build a Dark Bluish Gray Brick",
 	"category": ["Colors"],
-	"requires": "|Dark Bluish Gray| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Dark Bluish Gray| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },
 {
 	"name": "Build a Dark Brown Brick",
 	"category": ["Colors"],
-	"requires": "|Dark Brown| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Dark Brown| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },
 {
 	"name": "Build a Dark Green Brick",
 	"category": ["Colors"],
-	"requires": "|Dark Green| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Dark Green| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },
 {
 	"name": "Build a Dark Orange Brick",
 	"category": ["Colors"],
-	"requires": "|Dark Orange| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Dark Orange| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },
 {
 	"name": "Build a Dark Pink Brick",
 	"category": ["Colors"],
-	"requires": "|Dark Pink| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Dark Pink| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },
 {
 	"name": "Build a Dark Purple Brick",
 	"category": ["Colors"],
-	"requires": "|Dark Purple| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Dark Purple| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },
 {
 	"name": "Build a Dark Red Brick",
 	"category": ["Colors"],
-	"requires": "|Dark Red| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Dark Red| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },
 {
 	"name": "Build a Dark Tan Brick",
 	"category": ["Colors"],
-	"requires": "|Dark Tan| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Dark Tan| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },	
 {
 	"name": "Build a Dark Turquoise Brick",
 	"category": ["Colors"],
-	"requires": "|Dark Turquoise| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Dark Turquoise| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },	
 {
 	"name": "Build a Flat Silver Brick",
 	"category": ["Colors"],
-	"requires": "|Flat Silver| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Flat Silver| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },	
 {
 	"name": "Build a Green Brick",
 	"category": ["Colors"],
-	"requires": "|Green| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Green| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },	
 {
 	"name": "Build a Lavender Brick",
 	"category": ["Colors"],
-	"requires": "|Lavender| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Lavender| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },		
 {
 	"name": "Build a Light Aqua Brick",
 	"category": ["Colors"],
-	"requires": "|Light Aqua| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Light Aqua| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },		
 {
 	"name": "Build a Light Bluish Gray Brick",
 	"category": ["Colors"],
-	"requires": "|Light Bluish Gray| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Light Bluish Gray| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },		
 {
 	"name": "Build a Light Nougat Brick",
 	"category": ["Colors"],
-	"requires": "|Light Nougat| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Light Nougat| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },		
 {
 	"name": "Build a Lime Brick",
 	"category": ["Colors"],
-	"requires": "|Lime| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Lime| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },		
 {
 	"name": "Build a Magenta Brick",
 	"category": ["Colors"],
-	"requires": "|Magenta| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Magenta| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },		
 {
 	"name": "Build a Medium Azure Brick",
 	"category": ["Colors"],
-	"requires": "|Medium Azure| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Medium Azure| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },		
 {
 	"name": "Build a Medium Brown Brick",
 	"category": ["Colors","Skin Tones"],
-	"requires": "|Medium Brown| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Medium Brown| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },		
 {
 	"name": "Build a Medium Lavender Brick",
 	"category": ["Colors"],
-	"requires": "|Medium Lavender| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Medium Lavender| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },		
 {
 	"name": "Build a Medium Nougat Brick",
 	"category": ["Colors"],
-	"requires": "|Medium Nougat| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Medium Nougat| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },		
 {
 	"name": "Build a Medium Tan Brick",
 	"category": ["Colors","Skin Tones"],
-	"requires": "|Medium Tan| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Medium Tan| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },		
 {
 	"name": "Build a Metallic Gold Brick",
 	"category": ["Colors", "Shinies"],
-	"requires": "|Metallic Gold| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Metallic Gold| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },		
 {
 	"name": "Build a Metallic Silver Brick",
 	"category": ["Colors","Shinies"],
-	"requires": "|Metallic Silver| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Metallic Silver| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },		
 {
 	"name": "Build a Neon Yellow Brick",
 	"category": ["Colors"],
-	"requires": "|Neon Yellow| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Neon Yellow| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },		
 {
 	"name": "Build a Nougat Brick",
 	"category": ["Colors"],
-	"requires": "|Nougat| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Nougat| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },		
 {
 	"name": "Build a Ochre Yellow Brick",
 	"category": ["Colors"],
-	"requires": "|Ochre Yellow| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Ochre Yellow| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },		
 {
 	"name": "Build a Olive Green Brick",
 	"category": ["Colors"],
-	"requires": "|Olive Green| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Olive Green| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },		
 {
 	"name": "Build a Orange Brick",
 	"category": ["Colors"],
-	"requires": "|Orange| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Orange| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },		
 {
 	"name": "Build a Pearl Dark Gray Brick",
 	"category": ["Colors", "Shinies"],
-	"requires": "|Pearl Dark Gray| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Pearl Dark Gray| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },		
 {
 	"name": "Build a Pearl Gold Brick",
 	"category": ["Colors", "Shinies"],
-	"requires": "|Pearl Gold| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Pearl Gold| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },	
 {
 	"name": "Build a Red Brick",
 	"category": ["Colors"],
-	"requires": "|Red| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Red| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },				
 {
 	"name": "Build a Reddish Brown Brick",
 	"category": ["Colors"],
-	"requires": "|Reddish Brown| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Reddish Brown| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },				
 {
 	"name": "Build a Reddish Orange Brick",
 	"category": ["Colors"],
-	"requires": "|Reddish Orange| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Reddish Orange| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },				
 {
 	"name": "Build a Sand Blue Brick",
 	"category": ["Colors"],
-	"requires": "|Sand Blue| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Sand Blue| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },				
 {
 	"name": "Build a Sand Green Brick",
 	"category": ["Colors"],
-	"requires": "|Sand Green| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Sand Green| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },				
 {
 	"name": "Build a Satin Trans-Bright Green Brick",
 	"category": ["Colors", "Shinies"],
-	"requires": "|Satin Trans-Bright Green| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Satin Trans-Bright Green| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },				
 {
 	"name": "Build a Satin Trans-Clear Brick",
 	"category": ["Colors", "Shinies"],
-	"requires": "|Satin Trans-Clear| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Satin Trans-Clear| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },				
 {
 	"name": "Build a Satin Trans-Dark Blue Brick",
 	"category": ["Colors", "Shinies"],
-	"requires": "|Satin Trans-Dark Blue| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Satin Trans-Dark Blue| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },				
 {
 	"name": "Build a Satin Trans-Dark Pink Brick",
 	"category": ["Colors", "Shinies"],
-	"requires": "|Satin Trans-Dark Pink| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Satin Trans-Dark Pink| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },				
 {
 	"name": "Build a Satin Trans-Light Blue Brick",
 	"category": ["Colors", "Shinies"],
-	"requires": "|Satin Trans-Light Blue| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Satin Trans-Light Blue| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },				
 {
 	"name": "Build a Satin Trans-Purple Brick",
 	"category": ["Colors", "Shinies"],
-	"requires": "|Satin Trans-Purple| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Satin Trans-Purple| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },				
 {
 	"name": "Build a Satin Trans-Yellow Brick",
 	"category": ["Colors", "Shinies"],
-	"requires": "|Satin Trans-Yellow| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Satin Trans-Yellow| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },				
 {
 	"name": "Build a Sienna Brick",
 	"category": ["Colors", "Skin Tones"],
-	"requires": "|Sienna| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Sienna| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },				
 {
 	"name": "Build a Tan Brick",
 	"category": ["Colors"],
-	"requires": "|Tan| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Tan| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },				
 {
 	"name": "Build a Trans-Black Brick",
 	"category": ["Colors", "Shinies"],
-	"requires": "|Trans-Black| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Trans-Black| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },				
 {
 	"name": "Build a Trans-Bright Green Brick",
 	"category": ["Colors", "Shinies"],
-	"requires": "|Trans-Bright Green| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Trans-Bright Green| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },				
 {
 	"name": "Build a Trans-Clear Brick",
 	"category": ["Colors", "Shinies"],
-	"requires": "|Trans-Clear| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Trans-Clear| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },				
 {
 	"name": "Build a Trans-Dark Blue Brick",
 	"category": ["Colors", "Shinies"],
-	"requires": "|Trans-Dark Blue| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Trans-Dark Blue| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },				
 {
 	"name": "Build a Trans-Dark Pink Brick",
 	"category": ["Colors", "Shinies"],
-	"requires": "|Trans-Dark Pink| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Trans-Dark Pink| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },				
 {
 	"name": "Build a Trans-Green Brick",
 	"category": ["Colors", "Shinies"],
-	"requires": "|Trans-Green| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Trans-Green| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },				
 {
 	"name": "Build a Trans-Light Blue Brick",
 	"category": ["Colors", "Shinies"],
-	"requires": "|Trans-Light Blue| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Trans-Light Blue| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },				
 {
 	"name": "Build a Trans-Orange Brick",
 	"category": ["Colors", "Shinies"],
-	"requires": "|Trans-Orange| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Trans-Orange| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },				
 {
 	"name": "Build a Trans-Purple Brick",
 	"category": ["Colors", "Shinies"],
-	"requires": "|Trans-Purple| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Trans-Purple| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },							
 {
 	"name": "Build a Trans-Red Brick",
 	"category": ["Colors", "Shinies"],
-	"requires": "|Trans-Red| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Trans-Red| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },				
 {
 	"name": "Build a Trans-Yellow Brick",
 	"category": ["Colors", "Shinies"],
-	"requires": "|Trans-Yellow| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Trans-Yellow| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },				
 {
 	"name": "Build a Umber Brick",
 	"category": ["Colors", "Skin Tones"],
-	"requires": "|Umber| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Umber| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },				
 {
 	"name": "Build a Warm Pink Brick",
 	"category": ["Colors"],
-	"requires": "|Warm Pink| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Warm Pink| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },				
 {
 	"name": "Build a White Brick",
 	"category": ["Colors"],
-	"requires": "|Green| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Green| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },				
 {
 	"name": "Build a Yellow Brick",
 	"category": ["Colors"],
-	"requires": "|Yellow| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Yellow| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },				
 {
 	"name": "Build a Yellowish Green Brick",
 	"category": ["Colors"],
-	"requires": "|Yellowish Green| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+	"requires": "|Yellowish Green| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock)}"
 },
 {	
 	"name": "Minifig 1 Built",
