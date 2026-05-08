@@ -169,7 +169,7 @@ def after_set_rules(world: World, multiworld: MultiWorld, player: int):
     victory_location = multiworld.get_location("LEGO Set Completed", player)
     victory_location.access_rule = last_bag_location.access_rule
     last_page = get_option_value(multiworld, player, "number_of_pages")
-    last_page_location = multiworld.get_location(f"Pages {(last_page*5)-4} - (last_page*5)} Complete", player)
+    last_page_location = multiworld.get_location(f"Pages {(last_page*5)-4} - {(last_page*5)} Complete", player)
     victory_location = multiworld.get_location("LEGO Set Completed", player)
     victory_location.access_rule = last_page_location.access_rule
 
