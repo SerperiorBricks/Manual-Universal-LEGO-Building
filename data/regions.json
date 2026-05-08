@@ -1,0 +1,36 @@
+{
+	"Book 1": 	{
+		"starting": true,
+		"connects_to": ["Book 2"],
+		"requires": [],
+		"exit_requires": {
+			"Book 2": "{YamlCompare(number_of_booklets > 1)}"
+		}
+},
+	"Book 2": 	{
+		"starting": false,
+		"connects_to": ["Book 3"],
+		"requires": "{YamlCompare(number_of_booklets > 1)} or {YamlDisabled(Progressive_Books)}",
+		"exit_requires": {
+			"Book 3": "{YamlCompare(number_of_booklets > 2)}"
+		}
+},
+	"Book 3": 	{
+		"starting": false,
+		"connects_to": ["Book 4"],
+		"requires": "{YamlCompare(number_of_booklets > 2)} or {YamlDisabled(Progressive_Books)}",
+		"exit_requires": {
+			"Book 4": "{YamlCompare(number_of_booklets > 3)}"
+		}
+},
+	"Book 4": 	{
+		"starting": false,
+		"connects_to": [],
+		"requires": "{YamlCompare(number_of_booklets > 3)} or {YamlDisabled(Progressive_Books)}"
+},
+	"LEGO Set": 	{
+		"starting": true,
+		"connects_to": [],
+		"requires": []
+}
+}

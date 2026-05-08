@@ -1,0 +1,34 @@
+{
+  "user": {
+		  "bookswin": {
+			  "type": "Toggle",
+			  "default": false,
+			  "display_name": "Require completion of Instruction Books to Win",
+			  "group": "Wincons",
+			  "description": [
+                "Turn on this option to require completion of instruction books.",
+                "If there's only one instruction book, you don't need this toggled on."
+            ]
+		  },
+			  "bagswin": {
+			  "type": "Toggle",
+			  "default": true,
+			  "display_name": "Require completion of all Bags to Win",
+			  "group": "Wincons",
+			  "description": [
+                "Turn on this option to require completion of all bags.",
+                "Both Bags and Pages can be toggled on."
+            ]
+		  },
+			  "pageswin": {
+			  "type": "Toggle",
+			  "default": false,
+			  "display_name": "Require completion of all Pages to Win",
+			  "group": "Wincons",
+			  "description": [
+                "Turn on this option to require completion of all pages.",
+                "Both Bags and Pages can be toggled on."
+			  ]
+		  }
+	 }
+}

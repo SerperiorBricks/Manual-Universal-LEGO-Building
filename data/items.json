@@ -1,0 +1,469 @@
+[
+	{
+		"count": "500",
+		"name": "Page",
+		"category": ["Pages","Progressive Pages"],
+		"progression": true
+	},
+	{
+		"count": "100",
+		"name": "Bag",
+		"category": ["Bags","Progressive Bags"],
+		"progression": true
+	},
+	{
+		"count": "4",
+		"name": "Booklet",
+		"category": ["Booklets","Progressive Books"],
+		"progression": true
+	},
+	{
+		"count": "40",
+		"name": "Minifig",
+		"category": ["Minifigures"],
+		"useful": true
+	},
+	{
+		"name": "White",
+		"category": ["Colors"],
+		"useful": true,
+		"progression": true,
+		"early": true
+	},
+	{
+		"name": "Red",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Yellow",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Green",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Bright Green",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Blue",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true,
+		"early": true
+	},	
+	{
+		"name": "Black",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true,
+		"early": true
+	},	
+	{
+		"name": "Dark Red",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Tan",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Sand Green",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Reddish Brown",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Dark Tan",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Dark Green",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Dark Blue",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Nougat",
+		"category": ["Colors","Skin Tones"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Dark Bluish Gray",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true,
+		"early": true
+	},
+	{
+		"name": "Light Bluish Gray",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true,
+		"early": true
+	},	
+	{
+		"name": "Dark Orange",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Dark Pink",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},
+	{
+		"name": "Orange",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Lime",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Dark Turquoise",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Dark Purple",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Magenta",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Sand Blue",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Bright Light Orange",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Bright Pink",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Light Nougat",
+		"category": ["Colors","Skin Tones"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Bright Light Yellow",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Bright Light Blue",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Dark Brown",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Medium Nougat",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Light Aqua",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Dark Azure",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Lavender",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Yellowish Green",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Olive Green",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Medium Azure",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Medium Lavender",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Coral",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Medium Brown",
+		"category": ["Colors","Skin Tones"],
+		"progression": true,
+		"useful": true
+	},	
+		{
+		"name": "Medium Tan",
+		"category": ["Colors","Skin Tones"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Neon Yellow",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Reddish Orange",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Umber",
+		"category": ["Colors","Skin Tones"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Sienna",
+		"category": ["Colors","Skin Tones"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Ochre Yellow",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Blue Violet",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Warm Pink",
+		"category": ["Colors"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Trans-Clear",
+		"category": ["Colors","Transparent"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Trans-Red",
+		"category": ["Colors","Transparent"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Trans-Yellow",
+		"category": ["Colors","Transparent"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Trans-Green",
+		"category": ["Colors","Transparent"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Trans-Dark Blue",
+		"category": ["Colors","Transparent"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Trans-Light Blue",
+		"category": ["Colors","Transparent"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Trans-Dark Pink",
+		"category": ["Colors","Transparent"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Trans-Purple",
+		"category": ["Colors","Transparent"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Trans-Orange",
+		"category": ["Colors","Transparent"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Trans-Bright Green",
+		"category": ["Colors","Transparent"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Trans-Black",
+		"category": ["Colors","Transparent"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Chrome Gold",
+		"category": ["Colors","Shiny"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Pearl Dark Gray",
+		"category": ["Colors","Shiny"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Pearl Gold",
+		"category": ["Colors","Shiny"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Flat Silver",
+		"category": ["Colors","Shiny"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Satin Trans-Clear",
+		"category": ["Colors","Shiny"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Satin Trans-Light Blue",
+		"category": ["Colors","Shiny"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Satin Trans-Purple",
+		"category": ["Colors","Shiny"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Satin Trans-Dark Pink",
+		"category": ["Colors","Shiny"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Satin Trans-Bright Green",
+		"category": ["Colors","Shiny"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Satin Trans-Dark Blue",
+		"category": ["Colors","Shiny"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Satin Trans-Yellow",
+		"category": ["Colors","Shiny"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Metallic Silver",
+		"category": ["Colors","Shiny"],
+		"progression": true,
+		"useful": true
+	},	
+	{
+		"name": "Metallic Gold",
+		"category": ["Colors","Shiny"],
+		"progression": true,
+		"useful": true
+	}
+]

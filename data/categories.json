@@ -1,0 +1,49 @@
+{
+  "Bags": {
+    "long_name": "Bag Unlocks",
+    "hint": "Progressive unlocks for LEGO piece bags",
+    "yaml_option": ["Progressive_Bags"]
+  },
+  "Pages": {
+    "long_name": "Page Unlocks",
+    "hint": "Progressive unlocks for manual pages, in sets of 5",
+    "yaml_option": ["Progressive_Pages"]
+  },
+  "Booklets": {
+    "long_name": "Instruction Booklet Unlocks",
+    "hint": "Progressive unlocks for Instruction Booklets",
+    "yaml_option": ["Progressive_Books"]
+  },
+  "Minifigures": {
+    "long_name": "Minifigure Unlocks",
+    "hint": "Locations for Minifigures"
+  },
+  "Brick Separator": {
+    "long_name": "Brick Separator",
+    "hint": "Useful item for separating LEGO bricks"
+  },
+  "Colors": {
+    "long_name": "LEGO Colors",
+    "hint": "Bricklink Colors in Set"
+  },
+  "Page Completions": {
+    "long_name": "Page Completions",
+    "hint": "Locations for completing manual pages"
+  },
+  "Bag Completions": {
+    "long_name": "Bag Completions",
+    "hint": "Locations for completing bags"
+  },
+  "Booklet Completions": {
+    "long_name": "Booklet Completions",
+    "hint": "Locations for completing manuals"
+  },
+  "Skin Tones": {
+    "long_name": "Skin Tone Colors",
+    "hint": "Usually not needed, only in advanced color pallets"
+  },
+  "Shiny": {
+    "long_name": "Shiny Colors",
+    "hint": "Metallic, Translucent, Satin, etc"
+  }
+}

@@ -1,0 +1,3625 @@
+[
+{	
+	"name": "Bag 1 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": ""
+},	
+{	
+	"name": "Book 1 Complete",
+	"region": "Book 1",
+	"category": ["Books"],
+	"requires": ""
+},	
+{	
+	"name": "Book 2 Complete",
+	"region": "Book 2",
+	"category": ["Books"],
+	"requires": "|Booklet:2| OR {YamlDisabled(Progressive_Books)}"
+},	
+{	
+	"name": "Book 3 Complete",
+	"region": "Book 3",
+	"category": ["Books"],
+	"requires": "|Booklet:3| OR {YamlDisabled(Progressive_Books)}"
+},	
+{	
+	"name": "Book 4 Complete",
+	"region": "Book 4",
+	"category": ["Books"],
+	"requires": "|Booklet:4| OR {YamlDisabled(Progressive_Books)}"
+},		
+{	
+	"name": "Bag 2 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:1| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 3 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:2| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 4 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:3| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 5 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:4| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 6 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:5| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 7 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:6| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 8 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:7| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 9 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:8| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 10 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:9| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 11 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:10| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 12 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:11| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 13 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:12| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 14 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:13| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 15 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:14| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 16 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:15| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 17 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:16| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 18 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:17| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 19 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:18| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 20 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:19| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 21 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:20| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 22 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:21| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 23 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:22| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 24 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:23| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 25 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:24| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 26 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:25| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 27 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:26| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 28 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:27| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 29 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:28| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 30 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:29| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 31 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:30| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 32 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:31| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 33 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:32| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 34 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:33| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 35 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:34| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 36 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:35| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 37 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:36| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 38 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:37| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 39 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:38| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 40 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:39| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 41 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:40| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 42 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:41| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 43 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:42| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 44 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:43| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 45 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:44| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 46 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:45| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 47 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:46| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 48 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:47| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 49 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:48| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 50 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:49| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 51 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:50| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 52 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:51| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 53 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:52| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 54 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:53| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 55 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:54| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 56 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:55| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 57 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:56| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 58 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:57| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 59 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:58| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 60 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:59| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 61 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:60| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 62 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:61| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 63 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:62| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 64 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:63| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 65 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:64| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 66 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:65| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 67 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:66| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 68 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:67| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 69 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:68| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 70 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:69| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 71 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:70| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 72 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:71| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 73 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:72| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 74 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:73| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 75 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:74| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 76 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:75| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 77 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:76| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 78 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:77| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 79 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:78| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 80 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:79| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 81 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:80| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 82 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:81| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 83 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:82| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 84 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:83| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 85 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:84| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 86 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:85| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 87 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:86| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 88 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:87| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 89 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:88| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 90 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:89| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 91 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:90| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 92 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:91| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 93 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:92| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 94 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:93| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 95 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:94| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 96 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:95| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 97 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:96| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 98 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:97| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Bag 99 Complete",
+	"region": "LEGO Set",
+	"category": ["Bags"],
+	"requires": "|Bag:98| OR {YamlDisabled(Progressive_Bags)}"
+},	
+{	
+	"name": "Pages 1 - 5 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": ""
+},	
+{	
+	"name": "Pages 6 - 10 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:1| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 11 - 15 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:2| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 16 - 20 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:3| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 21 - 25 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:4| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 26 - 30 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:5| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 31 - 35 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:6| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 36 - 40 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:7| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 41 - 45 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:8| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 46 - 50 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:9| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 51 - 55 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:10| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 56 - 60 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:11| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 61 - 65 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:12| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 66 - 70 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:13| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 71 - 75 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:14| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 76 - 80 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:15| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 81 - 85 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:16| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 86 - 90 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:17| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 91 - 95 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:18| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 96 - 100 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:19| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 101 - 105 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:20| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 106 - 110 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:21| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 111 - 115 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:22| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 116 - 120 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:23| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 121 - 125 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:24| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 126 - 130 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:25| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 131 - 135 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:26| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 136 - 140 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:27| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 141 - 145 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:28| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 146 - 150 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:29| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 151 - 155 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:30| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 156 - 160 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:31| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 161 - 165 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:32| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 166 - 170 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:33| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 171 - 175 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:34| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 176 - 180 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:35| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 181 - 185 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:36| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 186 - 190 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:37| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 191 - 195 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:38| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 196 - 200 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:39| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 201 - 205 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:40| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 206 - 210 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:41| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 211 - 215 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:42| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 216 - 220 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:43| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 221 - 225 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:44| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 226 - 230 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:45| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 231 - 235 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:46| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 236 - 240 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:47| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 241 - 245 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:48| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 246 - 250 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:49| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 251 - 255 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:50| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 256 - 260 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:51| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 261 - 265 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:52| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 266 - 270 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:53| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 271 - 275 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:54| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 276 - 280 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:55| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 281 - 285 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:56| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 286 - 290 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:57| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 291 - 295 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:58| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 296 - 300 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:59| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 301 - 305 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:60| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 306 - 310 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:61| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 311 - 315 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:62| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 316 - 320 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:63| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 321 - 325 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:64| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 326 - 330 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:65| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 331 - 335 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:66| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 336 - 340 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:67| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 341 - 345 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:68| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 346 - 350 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:69| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 351 - 355 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:70| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 356 - 360 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:71| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 361 - 365 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:72| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 366 - 370 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:73| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 371 - 375 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:74| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 376 - 380 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:75| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 381 - 385 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:76| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 386 - 390 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:77| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 391 - 395 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:78| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 396 - 400 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:79| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 401 - 405 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:80| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 406 - 410 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:81| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 411 - 415 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:82| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 416 - 420 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:83| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 421 - 425 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:84| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 426 - 430 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:85| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 431 - 435 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:86| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 436 - 440 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:87| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 441 - 445 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:88| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 446 - 450 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:89| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 451 - 455 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:90| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 456 - 460 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:91| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 461 - 465 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:92| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 466 - 470 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:93| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 471 - 475 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:94| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 476 - 480 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:95| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 481 - 485 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:96| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 486 - 490 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:97| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 491 - 495 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:98| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 496 - 500 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:99| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 501 - 505 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:100| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 506 - 510 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:101| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 511 - 515 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:102| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 516 - 520 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:103| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 521 - 525 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:104| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 526 - 530 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:105| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 531 - 535 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:106| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 536 - 540 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:107| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 541 - 545 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:108| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 546 - 550 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:109| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 551 - 555 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:110| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 556 - 560 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:111| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 561 - 565 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:112| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 566 - 570 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:113| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 571 - 575 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:114| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 576 - 580 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:115| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 581 - 585 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:116| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 586 - 590 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:117| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 591 - 595 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:118| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 596 - 600 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:119| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 601 - 605 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:120| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 606 - 610 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:121| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 611 - 615 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:122| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 616 - 620 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:123| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 621 - 625 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:124| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 626 - 630 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:125| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 631 - 635 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:126| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 636 - 640 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:127| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 641 - 645 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:128| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 646 - 650 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:129| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 651 - 655 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:130| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 656 - 660 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:131| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 661 - 665 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:132| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 666 - 670 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:133| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 671 - 675 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:134| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 676 - 680 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:135| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 681 - 685 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:136| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 686 - 690 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:137| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 691 - 695 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:138| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 696 - 700 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:139| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 701 - 705 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:140| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 706 - 710 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:141| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 711 - 715 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:142| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 716 - 720 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:143| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 721 - 725 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:144| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 726 - 730 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:145| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 731 - 735 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:146| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 736 - 740 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:147| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 741 - 745 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:148| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 746 - 750 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:149| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 751 - 755 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:150| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 756 - 760 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:151| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 761 - 765 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:152| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 766 - 770 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:153| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 771 - 775 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:154| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 776 - 780 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:155| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 781 - 785 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:156| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 786 - 790 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:157| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 791 - 795 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:158| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 796 - 800 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:159| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 801 - 805 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:160| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 806 - 810 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:161| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 811 - 815 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:162| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 816 - 820 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:163| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 821 - 825 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:164| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 826 - 830 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:165| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 831 - 835 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:166| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 836 - 840 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:167| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 841 - 845 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:168| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 846 - 850 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:169| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 851 - 855 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:170| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 856 - 860 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:171| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 861 - 865 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:172| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 866 - 870 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:173| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 871 - 875 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:174| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 876 - 880 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:175| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 881 - 885 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:176| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 886 - 890 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:177| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 891 - 895 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:178| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 896 - 900 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:179| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 901 - 905 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:180| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 906 - 910 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:181| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 911 - 915 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:182| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 916 - 920 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:183| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 921 - 925 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:184| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 926 - 930 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:185| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 931 - 935 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:186| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 936 - 940 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:187| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 941 - 945 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:188| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 946 - 950 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:189| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 951 - 955 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:190| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 956 - 960 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:191| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 961 - 965 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:192| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 966 - 970 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:193| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 971 - 975 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:194| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 976 - 980 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:195| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 981 - 985 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:196| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 986 - 990 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:197| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 991 - 995 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:198| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 996 - 1000 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:199| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1001 - 1005 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:200| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1006 - 1010 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:201| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1011 - 1015 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:202| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1016 - 1020 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:203| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1021 - 1025 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:204| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1026 - 1030 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:205| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1031 - 1035 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:206| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1036 - 1040 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:207| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1041 - 1045 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:208| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1046 - 1050 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:209| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1051 - 1055 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:210| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1056 - 1060 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:211| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1061 - 1065 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:212| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1066 - 1070 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:213| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1071 - 1075 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:214| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1076 - 1080 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:215| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1081 - 1085 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:216| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1086 - 1090 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:217| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1091 - 1095 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:218| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1096 - 1100 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:219| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1101 - 1105 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:220| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1106 - 1110 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:221| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1111 - 1115 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:222| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1116 - 1120 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:223| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1121 - 1125 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:224| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1126 - 1130 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:225| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1131 - 1135 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:226| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1136 - 1140 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:227| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1141 - 1145 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:228| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1146 - 1150 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:229| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1151 - 1155 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:230| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1156 - 1160 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:231| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1161 - 1165 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:232| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1166 - 1170 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:233| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1171 - 1175 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:234| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1176 - 1180 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:235| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1181 - 1185 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:236| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1186 - 1190 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:237| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1191 - 1195 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:238| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1196 - 1200 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:239| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1201 - 1205 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:240| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1206 - 1210 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:241| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1211 - 1215 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:242| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1216 - 1220 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:243| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1221 - 1225 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:244| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1226 - 1230 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:245| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1231 - 1235 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:246| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1236 - 1240 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:247| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1241 - 1245 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:248| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1246 - 1250 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:249| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1251 - 1255 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:250| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1256 - 1260 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:251| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1261 - 1265 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:252| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1266 - 1270 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:253| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1271 - 1275 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:254| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1276 - 1280 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:255| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1281 - 1285 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:256| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1286 - 1290 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:257| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1291 - 1295 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:258| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1296 - 1300 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:259| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1301 - 1305 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:260| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1306 - 1310 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:261| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1311 - 1315 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:262| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1316 - 1320 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:263| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1321 - 1325 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:264| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1326 - 1330 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:265| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1331 - 1335 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:266| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1336 - 1340 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:267| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1341 - 1345 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:268| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1346 - 1350 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:269| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1351 - 1355 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:270| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1356 - 1360 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:271| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1361 - 1365 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:272| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1366 - 1370 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:273| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1371 - 1375 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:274| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1376 - 1380 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:275| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1381 - 1385 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:276| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1386 - 1390 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:277| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1391 - 1395 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:278| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1396 - 1400 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:279| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1401 - 1405 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:280| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1406 - 1410 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:281| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1411 - 1415 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:282| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1416 - 1420 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:283| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1421 - 1425 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:284| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1426 - 1430 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:285| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1431 - 1435 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:286| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1436 - 1440 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:287| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1441 - 1445 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:288| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1446 - 1450 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:289| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1451 - 1455 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:290| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1456 - 1460 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:291| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1461 - 1465 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:292| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1466 - 1470 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:293| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1471 - 1475 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:294| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1476 - 1480 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:295| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1481 - 1485 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:296| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1486 - 1490 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:297| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1491 - 1495 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:298| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1496 - 1500 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:299| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1501 - 1505 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:300| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1506 - 1510 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:301| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1511 - 1515 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:302| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1516 - 1520 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:303| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1521 - 1525 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:304| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1526 - 1530 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:305| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1531 - 1535 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:306| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1536 - 1540 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:307| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1541 - 1545 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:308| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1546 - 1550 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:309| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1551 - 1555 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:310| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1556 - 1560 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:311| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1561 - 1565 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:312| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1566 - 1570 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:313| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1571 - 1575 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:314| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1576 - 1580 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:315| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1581 - 1585 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:316| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1586 - 1590 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:317| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1591 - 1595 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:318| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1596 - 1600 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:319| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1601 - 1605 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:320| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1606 - 1610 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:321| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1611 - 1615 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:322| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1616 - 1620 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:323| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1621 - 1625 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:324| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1626 - 1630 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:325| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1631 - 1635 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:326| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1636 - 1640 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:327| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1641 - 1645 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:328| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1646 - 1650 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:329| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1651 - 1655 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:330| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1656 - 1660 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:331| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1661 - 1665 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:332| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1666 - 1670 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:333| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1671 - 1675 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:334| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1676 - 1680 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:335| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1681 - 1685 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:336| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1686 - 1690 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:337| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1691 - 1695 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:338| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1696 - 1700 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:339| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1701 - 1705 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:340| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1706 - 1710 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:341| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1711 - 1715 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:342| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1716 - 1720 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:343| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1721 - 1725 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:344| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1726 - 1730 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:345| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1731 - 1735 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:346| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1736 - 1740 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:347| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1741 - 1745 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:348| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1746 - 1750 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:349| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1751 - 1755 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:350| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1756 - 1760 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:351| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1761 - 1765 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:352| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1766 - 1770 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:353| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1771 - 1775 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:354| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1776 - 1780 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:355| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1781 - 1785 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:356| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1786 - 1790 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:357| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1791 - 1795 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:358| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1796 - 1800 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:359| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1801 - 1805 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:360| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1806 - 1810 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:361| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1811 - 1815 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:362| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1816 - 1820 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:363| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1821 - 1825 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:364| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1826 - 1830 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:365| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1831 - 1835 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:366| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1836 - 1840 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:367| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1841 - 1845 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:368| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1846 - 1850 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:369| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1851 - 1855 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:370| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1856 - 1860 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:371| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1861 - 1865 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:372| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1866 - 1870 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:373| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1871 - 1875 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:374| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1876 - 1880 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:375| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1881 - 1885 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:376| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1886 - 1890 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:377| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1891 - 1895 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:378| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1896 - 1900 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:379| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1901 - 1905 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:380| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1906 - 1910 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:381| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1911 - 1915 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:382| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1916 - 1920 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:383| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1921 - 1925 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:384| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1926 - 1930 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:385| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1931 - 1935 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:386| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1936 - 1940 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:387| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1941 - 1945 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:388| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1946 - 1950 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:389| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1951 - 1955 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:390| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1956 - 1960 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:391| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1961 - 1965 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:392| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1966 - 1970 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:393| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1971 - 1975 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:394| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1976 - 1980 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:395| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1981 - 1985 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:396| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1986 - 1990 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:397| OR {YamlDisabled(Progressive_Pages)}"
+},	
+{	
+	"name": "Pages 1991 - 1995 Complete",
+	"region": "LEGO Set",
+	"category": ["Pages"],
+	"requires": "|Page:398| OR {YamlDisabled(Progressive_Pages)}"
+},	
+	{
+		"name": "LEGO Set Completed",
+		"region": "LEGO Set",
+		"category": ["Bag Completions","Page Completions","Booklet Completions"],
+		"requires": "|Page:399| AND {YamlEnabled(Progressive_Pages)} OR |Bag:99| AND {YamlEnabled(Progressive_Bags)} OR {YamlDisabled(Progressive_Pages)} AND {YamlDisabled(Progressive_Bags)}"
+	},
+{
+	"name": "Build a Black Brick",
+	"category": ["Colors"],
+	"requires": ""
+},
+{
+	"name": "Build a Blue Violet Brick",
+	"category": ["Colors"],
+	"requires": "|Blue Violet| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},
+{
+	"name": "Build a Blue Brick",
+	"category": ["Colors"],
+	"requires": "|Blue| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},
+{
+	"name": "Build a Bright Light Blue Brick",
+	"category": ["Colors"],
+	"requires": "|Bright Light Blue| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},
+{
+	"name": "Build a Bright Light Orange Brick",
+	"category": ["Colors"],
+	"requires": "|Bright Light Orange| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},
+{
+	"name": "Build a Bright Light Yellow Brick",
+	"category": ["Colors"],
+	"requires": "|Bright Light Yellow| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},
+{
+	"name": "Build a Bright Green Brick",
+	"category": ["Colors"],
+	"requires": "|Bright Green| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},	
+{
+	"name": "Build a Bright Pink Brick",
+	"category": ["Colors"],
+	"requires": "|Bright Pink| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},
+{
+	"name": "Build a Chrome Gold Brick",
+	"category": ["Colors"],
+	"requires": "|Chrome Gold| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},
+{
+	"name": "Build a Coral Brick",
+	"category": ["Colors"],
+	"requires": "|Coral| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},
+{
+	"name": "Build a Dark Azure Brick",
+	"category": ["Colors"],
+	"requires": "|Dark Azure| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},
+{
+	"name": "Build a Dark Blue Brick",
+	"category": ["Colors"],
+	"requires": "|Dark Blue| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},
+{
+	"name": "Build a Dark Bluish Gray Brick",
+	"category": ["Colors"],
+	"requires": "|Dark Bluish Gray| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},
+{
+	"name": "Build a Dark Brown Brick",
+	"category": ["Colors"],
+	"requires": "|Dark Brown| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},
+{
+	"name": "Build a Dark Green Brick",
+	"category": ["Colors"],
+	"requires": "|Dark Green| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},
+{
+	"name": "Build a Dark Orange Brick",
+	"category": ["Colors"],
+	"requires": "|Dark Orange| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},
+{
+	"name": "Build a Dark Pink Brick",
+	"category": ["Colors"],
+	"requires": "|Dark Pink| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},
+{
+	"name": "Build a Dark Purple Brick",
+	"category": ["Colors"],
+	"requires": "|Dark Purple| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},
+{
+	"name": "Build a Dark Red Brick",
+	"category": ["Colors"],
+	"requires": "|Dark Red| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},
+{
+	"name": "Build a Dark Tan Brick",
+	"category": ["Colors"],
+	"requires": "|Dark Tan| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},	
+{
+	"name": "Build a Dark Turquoise Brick",
+	"category": ["Colors"],
+	"requires": "|Dark Turquoise| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},	
+{
+	"name": "Build a Flat Silver Brick",
+	"category": ["Colors"],
+	"requires": "|Flat Silver| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},	
+{
+	"name": "Build a Green Brick",
+	"category": ["Colors"],
+	"requires": "|Green| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},	
+{
+	"name": "Build a Lavender Brick",
+	"category": ["Colors"],
+	"requires": "|Lavender| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},		
+{
+	"name": "Build a Light Aqua Brick",
+	"category": ["Colors"],
+	"requires": "|Light Aqua| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},		
+{
+	"name": "Build a Light Bluish Gray Brick",
+	"category": ["Colors"],
+	"requires": "|Light Bluish Gray| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},		
+{
+	"name": "Build a Light Nougat Brick",
+	"category": ["Colors"],
+	"requires": "|Light Nougat| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},		
+{
+	"name": "Build a Lime Brick",
+	"category": ["Colors"],
+	"requires": "|Lime| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},		
+{
+	"name": "Build a Magenta Brick",
+	"category": ["Colors"],
+	"requires": "|Magenta| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},		
+{
+	"name": "Build a Medium Azure Brick",
+	"category": ["Colors"],
+	"requires": "|Medium Azure| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},		
+{
+	"name": "Build a Medium Brown Brick",
+	"category": ["Colors","Skin Tones"],
+	"requires": "|Medium Brown| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},		
+{
+	"name": "Build a Medium Lavender Brick",
+	"category": ["Colors"],
+	"requires": "|Medium Lavender| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},		
+{
+	"name": "Build a Medium Nougat Brick",
+	"category": ["Colors"],
+	"requires": "|Medium Nougat| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},		
+{
+	"name": "Build a Medium Tan Brick",
+	"category": ["Colors","Skin Tones"],
+	"requires": "|Medium Tan| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},		
+{
+	"name": "Build a Metallic Gold Brick",
+	"category": ["Colors", "Shinies"],
+	"requires": "|Metallic Gold| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},		
+{
+	"name": "Build a Metallic Silver Brick",
+	"category": ["Colors","Shinies"],
+	"requires": "|Metallic Silver| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},		
+{
+	"name": "Build a Neon Yellow Brick",
+	"category": ["Colors"],
+	"requires": "|Neon Yellow| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},		
+{
+	"name": "Build a Nougat Brick",
+	"category": ["Colors"],
+	"requires": "|Nougat| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},		
+{
+	"name": "Build a Ochre Yellow Brick",
+	"category": ["Colors"],
+	"requires": "|Ochre Yellow| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},		
+{
+	"name": "Build a Olive Green Brick",
+	"category": ["Colors"],
+	"requires": "|Olive Green| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},		
+{
+	"name": "Build a Orange Brick",
+	"category": ["Colors"],
+	"requires": "|Orange| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},		
+{
+	"name": "Build a Pearl Dark Gray Brick",
+	"category": ["Colors", "Shinies"],
+	"requires": "|Pearl Dark Gray| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},		
+{
+	"name": "Build a Pearl Gold Brick",
+	"category": ["Colors", "Shinies"],
+	"requires": "|Pearl Gold| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},	
+{
+	"name": "Build a Red Brick",
+	"category": ["Colors"],
+	"requires": "|Red| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},				
+{
+	"name": "Build a Reddish Brown Brick",
+	"category": ["Colors"],
+	"requires": "|Reddish Brown| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},				
+{
+	"name": "Build a Reddish Orange Brick",
+	"category": ["Colors"],
+	"requires": "|Reddish Orange| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},				
+{
+	"name": "Build a Sand Blue Brick",
+	"category": ["Colors"],
+	"requires": "|Sand Blue| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},				
+{
+	"name": "Build a Sand Green Brick",
+	"category": ["Colors"],
+	"requires": "|Sand Green| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},				
+{
+	"name": "Build a Satin Trans-Bright Green Brick",
+	"category": ["Colors", "Shinies"],
+	"requires": "|Satin Trans-Bright Green| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},				
+{
+	"name": "Build a Satin Trans-Clear Brick",
+	"category": ["Colors", "Shinies"],
+	"requires": "|Satin Trans-Clear| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},				
+{
+	"name": "Build a Satin Trans-Dark Blue Brick",
+	"category": ["Colors", "Shinies"],
+	"requires": "|Satin Trans-Dark Blue| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},				
+{
+	"name": "Build a Satin Trans-Dark Pink Brick",
+	"category": ["Colors", "Shinies"],
+	"requires": "|Satin Trans-Dark Pink| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},				
+{
+	"name": "Build a Satin Trans-Light Blue Brick",
+	"category": ["Colors", "Shinies"],
+	"requires": "|Satin Trans-Light Blue| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},				
+{
+	"name": "Build a Satin Trans-Purple Brick",
+	"category": ["Colors", "Shinies"],
+	"requires": "|Satin Trans-Purple| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},				
+{
+	"name": "Build a Satin Trans-Yellow Brick",
+	"category": ["Colors", "Shinies"],
+	"requires": "|Satin Trans-Yellow| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},				
+{
+	"name": "Build a Sienna Brick",
+	"category": ["Colors", "Skin Tones"],
+	"requires": "|Sienna| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},				
+{
+	"name": "Build a Tan Brick",
+	"category": ["Colors"],
+	"requires": "|Tan| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},				
+{
+	"name": "Build a Trans-Black Brick",
+	"category": ["Colors", "Shinies"],
+	"requires": "|Trans-Black| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},				
+{
+	"name": "Build a Trans-Bright Green Brick",
+	"category": ["Colors", "Shinies"],
+	"requires": "|Trans-Bright Green| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},				
+{
+	"name": "Build a Trans-Clear Brick",
+	"category": ["Colors", "Shinies"],
+	"requires": "|Trans-Clear| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},				
+{
+	"name": "Build a Trans-Dark Blue Brick",
+	"category": ["Colors", "Shinies"],
+	"requires": "|Trans-Dark Blue| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},				
+{
+	"name": "Build a Trans-Dark Pink Brick",
+	"category": ["Colors", "Shinies"],
+	"requires": "|Trans-Dark Pink| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},				
+{
+	"name": "Build a Trans-Green Brick",
+	"category": ["Colors", "Shinies"],
+	"requires": "|Trans-Green| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},				
+{
+	"name": "Build a Trans-Light Blue Brick",
+	"category": ["Colors", "Shinies"],
+	"requires": "|Trans-Light Blue| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},				
+{
+	"name": "Build a Trans-Orange Brick",
+	"category": ["Colors", "Shinies"],
+	"requires": "|Trans-Orange| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},				
+{
+	"name": "Build a Trans-Purple Brick",
+	"category": ["Colors", "Shinies"],
+	"requires": "|Trans-Purple| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},							
+{
+	"name": "Build a Trans-Red Brick",
+	"category": ["Colors", "Shinies"],
+	"requires": "|Trans-Red| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},				
+{
+	"name": "Build a Trans-Yellow Brick",
+	"category": ["Colors", "Shinies"],
+	"requires": "|Trans-Yellow| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},				
+{
+	"name": "Build a Umber Brick",
+	"category": ["Colors", "Skin Tones"],
+	"requires": "|Umber| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},				
+{
+	"name": "Build a Warm Pink Brick",
+	"category": ["Colors"],
+	"requires": "|Warm Pink| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},				
+{
+	"name": "Build a White Brick",
+	"category": ["Colors"],
+	"requires": "|Green| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},				
+{
+	"name": "Build a Yellow Brick",
+	"category": ["Colors"],
+	"requires": "|Yellow| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},				
+{
+	"name": "Build a Yellowish Green Brick",
+	"category": ["Colors"],
+	"requires": "|Yellowish Green| AND {YamlEnabled(ColorLock)} OR {YamlDisabled(ColorLock}"
+},
+{	
+	"name": "Minifig 1 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 2 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 3 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 4 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 5 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 6 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 7 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 8 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 9 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 10 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 11 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 12 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 13 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 14 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 15 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 16 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 17 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 18 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 19 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 20 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 21 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 22 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 23 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 24 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 25 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 26 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 27 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 28 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 29 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 30 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 31 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 32 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 33 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 34 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 35 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 36 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 37 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 38 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 39 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+},	
+{	
+	"name": "Minifig 40 Built",
+	"region": "LEGO Set",
+	"category": ["Minifigures"],
+	"requires": ""
+}
+]
