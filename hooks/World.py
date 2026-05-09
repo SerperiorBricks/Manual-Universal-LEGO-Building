@@ -52,7 +52,7 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
     for bag in range(100, last_bag, -1):
         locationNamesToRemove.append(f"Bag {bag} Complete")  
     for page in range(500, last_page, -1):
-        locationNamesToRemove.append(f"Pages {(page*5)-4} - {(page*5)} Complete")  
+        locationNamesToRemove.append(f"Pages {(page)-4} - {(page)} Complete")  
     for book in range(4, last_book, -1):
         locationNamesToRemove.append(f"Book {book} Complete")  
     for fig in range(4, last_fig, -1):
