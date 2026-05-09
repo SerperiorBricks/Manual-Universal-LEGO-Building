@@ -52,7 +52,7 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
     for bag in range(100, last_bag, -1):
         locationNamesToRemove.append(f"Bag {bag} Complete")  
     for page in range(400, last_page, -1):
-        locationNamesToRemove.append(f"Pages {(page)-4} - {(page)} Complete")  
+        locationNamesToRemove.append(f"Pages {(page*5)-4} - {(page*5)} Complete")  
     for book in range(4, last_book, -1):
         locationNamesToRemove.append(f"Book {book} Complete")  
     for fig in range(4, last_fig, -1):
@@ -88,7 +88,7 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
 # The item pool after starting items are processed but before filler is added, in case you want to see the raw item pool at that stage
 def before_create_items_filler(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
     Bags_to_remove = 100 - get_option_value(multiworld, player, "number_of_bags")
-    Pages_to_remove = 500 - get_option_value(multiworld, player, "number_of_pages")//5
+    Pages_to_remove = 400 - get_option_value(multiworld, player, "number_of_pages")//5
     Books_to_remove = 4 - get_option_value(multiworld, player, "number_of_books")
     Minifigures_to_remove = 40 - get_option_value(multiworld, player, "number_of_minifigs")
     # Use this hook to remove items from the item pool
