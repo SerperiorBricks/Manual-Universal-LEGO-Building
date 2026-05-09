@@ -44,7 +44,7 @@ class NumberOfMinifigs(Range):
     display_name = "Number of Minifigs"
     range_start = 1
     range_end = 40
-    default = 0
+    default = 1
     group: "Set Details"
 class ProgressiveBags(DefaultOnToggle):
 	"""Disabling this will make the build more difficult, but more random. Move to a later book and assemble what you can to get more checks, or otherwise make progress on your build. If your LEGO Set has different builds for each instruction booklet, this is a good setting to disable."""
