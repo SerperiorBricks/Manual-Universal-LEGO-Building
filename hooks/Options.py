@@ -40,7 +40,7 @@ class NumberOfBooklets(Range):
     range_end = 4
     default = 1
     group: "Set Details"
-class NumberOfMinifigures(Range):
+class NumberOfMinifigs(Range):
     display_name = "Number of Minifigs"
     range_start = 1
     range_end = 40
@@ -84,7 +84,7 @@ def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, T
 	options["number_of_bags"] = NumberOfBags
 	options["number_of_pages"] = NumberOfPages
 	options["number_of_booklets"] = NumberOfBooklets
-	options["number_of_minifigs"] = NumberOfMinifigures
+	options["number_of_minifigs"] = NumberOfMinifigs
 	options["enabled_colors"] = EnabledColors  # This registers the yaml option as `enabled_colors`
 	return options
 
