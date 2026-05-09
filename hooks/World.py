@@ -88,7 +88,7 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
 # The item pool after starting items are processed but before filler is added, in case you want to see the raw item pool at that stage
 def before_create_items_filler(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
     Bags_to_remove = 100 - get_option_value(multiworld, player, "number_of_bags")
-    Pages_to_remove = 500 - get_option_value(multiworld, player, "number_of_pages")
+    Pages_to_remove = 500 - get_option_value(multiworld, player, "number_of_pages")//5
     Books_to_remove = 4 - get_option_value(multiworld, player, "number_of_books")
     Minifigures_to_remove = 40 - get_option_value(multiworld, player, "number_of_minifigs")
     # Use this hook to remove items from the item pool
