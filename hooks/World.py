@@ -92,7 +92,7 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     Books_to_remove = 4 - get_option_value(multiworld, player, "number_of_books")
     Minifigures_to_remove = 40 - get_option_value(multiworld, player, "number_of_minifigs")
     # Use this hook to remove items from the item pool
-    itemNamesToRemove: list[str] = ["Bag"] * Bags_to_remove + ["Page"] * Pages_to_remove  + ["Book"] * Books_to_remove  + ["Minifig"] * Minifigures_to_remove     # List of item names
+    itemNamesToRemove: list[str] = ["Bag"] * Bags_to_remove     # List of item names
 
     # Add your code here to calculate which items to remove.
     #
@@ -102,17 +102,20 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     for itemName in itemNamesToRemove:
         item = next(i for i in item_pool if i.name == itemName)
         item_pool.remove(item)
-
+    itemNamesToRemove: list[str] = ["Page"] * Pages_to_remove
+        for itemName in itemNamesToRemove:
+        item = next(i for i in item_pool if i.name == itemName)
+        item_pool.remove(item)
+    itemNamesToRemove: list[str] = ["Book"] * Books_to_remove
+        for itemName in itemNamesToRemove:
+        item = next(i for i in item_pool if i.name == itemName)
+        item_pool.remove(item)
+    itemNamesToRemove: list[str] = ["Minifig"] * Minifigures_to_remove
+        for itemName in itemNamesToRemove:
+        item = next(i for i in item_pool if i.name == itemName)
+        item_pool.remove(item)
     return item_pool
-    # Use this hook to remove items from the item pool
 
-    # Some other useful hook options:
-
-    ## Place an item at a specific location
-    # location = next(l for l in multiworld.get_unfilled_locations(player=player) if l.name == "Location Name")
-    # item_to_place = next(i for i in item_pool if i.name == "Item Name")
-    # location.place_locked_item(item_to_place)
-    # item_pool.remove(item_to_place)
 
 # The complete item pool prior to being set for generation is provided here, in case you want to make changes to it
 def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
