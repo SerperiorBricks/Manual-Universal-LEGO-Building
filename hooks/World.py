@@ -45,7 +45,7 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
     last_bag = get_option_value(multiworld, player, "number_of_bags")
     last_page = get_option_value(multiworld, player, "number_of_pages")//5
     last_book = get_option_value(multiworld, player, "number_of_books")
-    last_fig = get_option_value(multiworld, player, "number_of_figs")
+    last_fig = get_option_value(multiworld, player, "number_of_minifigs")
 
     # Use this hook to remove locations from the world
     locationNamesToRemove: list[str] = [] # List of location names
@@ -90,7 +90,7 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     Bags_to_remove = 100 - get_option_value(multiworld, player, "number_of_bags")
     Pages_to_remove = 500 - get_option_value(multiworld, player, "number_of_pages")
     Books_to_remove = 4 - get_option_value(multiworld, player, "number_of_books")
-    Minifigures_to_remove = 40 - get_option_value(multiworld, player, "number_of_figs")
+    Minifigures_to_remove = 40 - get_option_value(multiworld, player, "number_of_minifigs")
     # Use this hook to remove items from the item pool
     itemNamesToRemove: list[str] = ["Bag"] * Bags_to_remove     # List of item names
 
