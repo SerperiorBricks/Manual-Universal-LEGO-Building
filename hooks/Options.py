@@ -41,7 +41,7 @@ class NumberOfBooklets(Range):
     default = 1
     group: "Set Details"
 class NumberOfMinifigures(Range):
-    display_name = "Number of Minifigures"
+    display_name = "Number of Minifigs"
     range_start = 1
     range_end = 40
     default = 0
