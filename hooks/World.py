@@ -4,7 +4,7 @@ from BaseClasses import MultiWorld, CollectionState, Item, LocationProgressType
 
 # Object classes from Manual -- extending AP core -- representing items and locations that are used in generation
 from ..Items import ManualItem
-from ..Locations import ManualLocation,location_name_groups
+from ..Locations import ManualLocation
 
 # Raw JSON data from the Manual apworld, respectively:
 #          data/game.json, data/items.json, data/locations.json, data/regions.json
