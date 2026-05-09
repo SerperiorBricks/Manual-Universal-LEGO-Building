@@ -92,7 +92,7 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     Books_to_remove = 4 - get_option_value(multiworld, player, "number_of_books")
     Minifigures_to_remove = 40 - get_option_value(multiworld, player, "number_of_minifigs")
     # Use this hook to remove items from the item pool
-    itemNamesToRemove: list[str] = ["Bag"] * Bags_to_remove     # List of item names
+    itemNamesToRemove: list[str] = ["Bag"] * Bags_to_remove + ["Page"] * Pages_to_remove  + ["Book"] * Books_to_remove  + ["Minifig"] * Minifigures_to_remove     # List of item names
 
     # Add your code here to calculate which items to remove.
     #
@@ -105,44 +105,6 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
 
     return item_pool
     # Use this hook to remove items from the item pool
-    itemNamesToRemove: list[str] = ["Booklet"] * Books_to_remove     # List of item names
-
-    # Add your code here to calculate which items to remove.
-    #
-    # Because multiple copies of an item can exist, you need to add an item name
-    # to the list multiple times if you want to remove multiple copies of it.
-
-    for itemName in itemNamesToRemove:
-        item = next(i for i in item_pool if i.name == itemName)
-        item_pool.remove(item)
-
-    return item_pool
-    # Use this hook to remove items from the item pool
-    itemNamesToRemove: list[str] = ["Page"] * Pages_to_remove     # List of item names
-
-    # Add your code here to calculate which items to remove.
-    #
-    # Because multiple copies of an item can exist, you need to add an item name
-    # to the list multiple times if you want to remove multiple copies of it.
-
-    for itemName in itemNamesToRemove:
-        item = next(i for i in item_pool if i.name == itemName)
-        item_pool.remove(item)
-
-    return item_pool
-    # Use this hook to remove items from the item pool
-    itemNamesToRemove list[str] = ["Minifigure"] * Minifigures_to_remove     # List of item names
-
-    # Add your code here to calculate which items to remove.
-    #
-    # Because multiple copies of an item can exist, you need to add an item name
-    # to the list multiple times if you want to remove multiple copies of it.
-
-    for itemName in itemNamesToRemove:
-        item = next(i for i in item_pool if i.name == itemName)
-        item_pool.remove(item)
-
-    return item_pool
 
     # Some other useful hook options:
 
