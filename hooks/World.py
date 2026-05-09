@@ -52,7 +52,7 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
     for bag in range(100, last_bag, -1):
         locationNamesToRemove.append(f"Bag {bag} Complete")  
     for page in range(400, last_page, -1):
-        locationNamesToRemove.append(f"Pages {(page*5)-4} - {(page*5)} Complete")  
+        locationNamesToRemove.append(f"Pages {(page)*5-4} - {(page)*5} Complete")  
     for book in range(4, last_book, -1):
         locationNamesToRemove.append(f"Book {book} Complete")  
     for fig in range(4, last_fig, -1):
@@ -168,7 +168,7 @@ def after_set_rules(world: World, multiworld: MultiWorld, player: int):
     last_bag_location = multiworld.get_location(f"Bag {last_bag} Complete", player)
     victory_location = multiworld.get_location("LEGO Set Completed", player)
     victory_location.access_rule = last_bag_location.access_rule
-    last_page = get_option_value(multiworld, player, "number_of_pages")
+    last_page = get_option_value(multiworld, player, "number_of_pages")//5
     last_page_location = multiworld.get_location(f"Pages {(last_page*5)-4} - {(last_page*5)} Complete", player)
     victory_location = multiworld.get_location("LEGO Set Completed", player)
     victory_location.access_rule = last_page_location.access_rule
