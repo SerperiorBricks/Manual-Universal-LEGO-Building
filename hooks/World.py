@@ -51,6 +51,12 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
     locationNamesToRemove: list[str] = [] # List of location names
     for bag in range(100, last_bag, -1):
         locationNamesToRemove.append(f"Bag {bag} Complete")  
+    for page in range(400, last_page, -1):
+        locationNamesToRemove.append(f"Pages {(page)*5-4} - {(page)*5} Complete")  
+    for book in range(4, last_book, -1):
+        locationNamesToRemove.append(f"Book {book} Complete")  
+    for fig in range(4, last_fig, -1):
+        locationNamesToRemove.append(f"Minifig {fig} Built")
         
     for region in multiworld.regions:
         if region.player == player:
@@ -64,12 +70,6 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
         if "Secondary" in location.name:
             location.progress_type = LocationProgressType.EXCLUDED
 
-    for page in range(400, last_page, -1):
-        locationNamesToRemove.append(f"Pages {(page)*5-4} - {(page)*5} Complete")  
-    for book in range(4, last_book, -1):
-        locationNamesToRemove.append(f"Book {book} Complete")  
-    for fig in range(4, last_fig, -1):
-        locationNamesToRemove.append(f"Minifig {fig} Built")
 # This hook allows you to access the item names & counts before the items are created. Use this to increase/decrease the amount of a specific item in the pool
 # Valid item_config key/values:
 # {"Item Name": 5} <- This will create qty 5 items using all the default settings
